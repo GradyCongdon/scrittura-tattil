@@ -1,6 +1,6 @@
 {
   "name": "scrittura-tattil",
-  "homepage": "https://gradycongdon.github.io/scrittura-tattil/",
+  "homepage": "https://gradycongdon.github.io/scrittura-tattil",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +21,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npx run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
