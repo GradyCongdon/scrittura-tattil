@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/scrittura-tattil/static/css/main.ed31af05.chunk.css",
-    "main.js": "/scrittura-tattil/static/js/main.3d82b1b0.chunk.js",
-    "main.js.map": "/scrittura-tattil/static/js/main.3d82b1b0.chunk.js.map",
+    "main.js": "/scrittura-tattil/static/js/main.0abc085e.chunk.js",
+    "main.js.map": "/scrittura-tattil/static/js/main.0abc085e.chunk.js.map",
     "runtime-main.js": "/scrittura-tattil/static/js/runtime-main.3c2d8a96.js",
     "runtime-main.js.map": "/scrittura-tattil/static/js/runtime-main.3c2d8a96.js.map",
     "static/js/2.5ad8fc09.chunk.js": "/scrittura-tattil/static/js/2.5ad8fc09.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3c2d8a96.js",
     "static/js/2.5ad8fc09.chunk.js",
     "static/css/main.ed31af05.chunk.css",
-    "static/js/main.3d82b1b0.chunk.js"
+    "static/js/main.0abc085e.chunk.js"
   ]
 }
