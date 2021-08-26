@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/scrittura-tattil/static/css/main.ed31af05.chunk.css",
+    "main.js": "/scrittura-tattil/static/js/main.3d82b1b0.chunk.js",
+    "main.js.map": "/scrittura-tattil/static/js/main.3d82b1b0.chunk.js.map",
+    "runtime-main.js": "/scrittura-tattil/static/js/runtime-main.3c2d8a96.js",
+    "runtime-main.js.map": "/scrittura-tattil/static/js/runtime-main.3c2d8a96.js.map",
+    "static/js/2.5ad8fc09.chunk.js": "/scrittura-tattil/static/js/2.5ad8fc09.chunk.js",
+    "static/js/2.5ad8fc09.chunk.js.map": "/scrittura-tattil/static/js/2.5ad8fc09.chunk.js.map",
+    "static/js/3.524e1849.chunk.js": "/scrittura-tattil/static/js/3.524e1849.chunk.js",
+    "static/js/3.524e1849.chunk.js.map": "/scrittura-tattil/static/js/3.524e1849.chunk.js.map",
+    "index.html": "/scrittura-tattil/index.html",
+    "static/css/main.ed31af05.chunk.css.map": "/scrittura-tattil/static/css/main.ed31af05.chunk.css.map",
+    "static/js/2.5ad8fc09.chunk.js.LICENSE.txt": "/scrittura-tattil/static/js/2.5ad8fc09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c2d8a96.js",
+    "static/js/2.5ad8fc09.chunk.js",
+    "static/css/main.ed31af05.chunk.css",
+    "static/js/main.3d82b1b0.chunk.js"
+  ]
+}
