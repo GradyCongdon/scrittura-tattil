@@ -28,7 +28,7 @@ const height = 10;
 const isLetter = (key: string) => key.length === 1;
 
 const getLocalState = (): Letter[] => {
-  const localStore = localStorage.getItem('state');
+  const localStore = localStorage.getItem('letters');
   return localStore ? JSON.parse(localStore) : null;
 }
 
@@ -64,7 +64,7 @@ function App() {
     const { key } = e;
     if (!isLetter(key)) return;
     addLetter(key);
-    localStorage.setItem('state', JSON.stringify(letters));
+    localStorage.setItem('letters', JSON.stringify(letters));
   }
 
   const inputStyle = {
@@ -92,7 +92,7 @@ function App() {
   const reset = () => {
     setIsDefault(true);
     setLetters(message);
-    localStorage.setItem('state', JSON.stringify([]));
+    localStorage.setItem('letters', JSON.stringify([]));
     document.getElementById('board')?.focus();
   }
 
